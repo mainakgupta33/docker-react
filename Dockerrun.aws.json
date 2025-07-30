@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "your-dockerhub-username/react-test:latest",
+      "Name": "mainakgupta/react-test:latest",
       "Update": "true"
     },
     "Ports": [
